@@ -1,5 +1,10 @@
 const quizData = [
     {
+      question: "What is the animal on Firefox logo?",
+      options: ["Red Panda", "Fox", "Cat", "Lemur"],
+      answer: "Red Panda"
+    },
+    {
       question: "What was the first video game ever made?",
       options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
       answer: "Spacewar!"
