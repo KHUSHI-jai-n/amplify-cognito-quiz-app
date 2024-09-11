@@ -9,10 +9,10 @@ Architecture:
 
 Features:
 
-ReactJS Frontend- A responsive user interface built with ReactJS, ensuring a seamless user experience across devices.
+1. ReactJS Frontend- A responsive user interface built with ReactJS, ensuring a seamless user experience across devices.
 
-AWS Amplify- Streamlined deployment and hosting of the application with AWS Amplify, offering robust backend support and easy scalability.
+2. AWS Amplify- Streamlined deployment and hosting of the application with AWS Amplify, offering robust backend support and easy scalability.
 
-Secure Authentication- Integrated AWS Cognito for user authentication, ensuring secure access to the application.
+3. Secure Authentication- Integrated AWS Cognito for user authentication, ensuring secure access to the application.
 
-CI/CD Pipeline- Automated testing and deployment using GitHub Actions, ensuring consistent and reliable updates to the application.
+4. CI/CD Pipeline- Automated testing and deployment using GitHub Actions, ensuring consistent and reliable updates to the application.
