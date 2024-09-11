@@ -1,4 +1,4 @@
-#Quiz App using ReactJS, AWS Amplify, Cognito and GitHub CI/CD
+# Quiz App using ReactJS, AWS Amplify, Cognito and GitHub CI/CD
 
 This project showcases a dynamic quiz application built using ReactJS, deployed and managed with AWS Amplify, and secured with AWS Cognito. The project also incorporates a CI/CD pipeline using GitHub for automated testing and deployment.
 
